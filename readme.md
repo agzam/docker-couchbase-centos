@@ -10,6 +10,4 @@ to open admin tool:
 
     open http://$(boot2docker ip 2>/dev/null):8091
 
-for making it accessible within local network, see: 
-
-    https://github.com/boot2docker/boot2docker/blob/master/doc/WORKAROUNDS.md
+for making it accessible within local network, [https://github.com/boot2docker/boot2docker/blob/master/doc/WORKAROUNDS.md](read this)
